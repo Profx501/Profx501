@@ -1,8 +1,15 @@
-<h1 align="left">Hi 👋 My name is Ruslan.<br>Backend developer.</h1>
+<h1 align="center">Hi 👋 My name is Ruslan.<br>Backend developer.</h1>
+
+###
+<div align="center">
+  <a href="https://t.me/ProFX50166" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+</div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
@@ -19,16 +26,6 @@
 </div>
 
 ###
-
-<div align="left">
-  <a href="https://t.me/ProFX50166" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-</div>
-
-###
-
-![](https://www.codewars.com/users/Alex5016/badges/micro)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Profx501&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
