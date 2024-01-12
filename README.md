@@ -34,3 +34,8 @@
 </div>
 
 ###
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Profx501/Profx501/output/snake.svg" alt="Snake animation" />
+
+###
